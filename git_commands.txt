@@ -35,6 +35,6 @@
    44  git status
 
 git push origin master
-
+https://github.com/Krishnnakaant/github-for-devops-workshop.git
 this updated file 
 
